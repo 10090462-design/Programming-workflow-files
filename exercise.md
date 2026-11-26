@@ -6,7 +6,8 @@ Before starting this exercise, create a new branch called practice/[first name]
 
 1. Look at the previous commit messages in this repo. Find an example of a good commit message and a bad one. Quote the messages below, and explain why they are good or bad. 
 
-    *[your answer here]*
+    *Good: Updated exercise.md with instructions for...*
+    *Bad: Added file.*
 
 2. Commit your answer
 
