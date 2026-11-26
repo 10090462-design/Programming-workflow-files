@@ -16,8 +16,8 @@ Before starting this exercise, create a new branch called practice/[first name]
 
 4. Checkout main again, then create a new branch from main. Name this branch practice/[last name]
 5. Answer below based on whether you are working in a codespace or on your computer:
-    1. Where are you working on this file? _____
-    2. Is where you are working on this file a clone of the repo? Why or why not?
+    1. Where are you working on this file? On my school chromebook. Github Codespace.
+    2. Is where you are working on this file a clone of the repo? Why or why not? No it is not. Earlier, we forked the Workflow Techcrest project instead of cloning it.
 6. Commit your answer to question 4.
 7. pull your practice/[first name] branch into this branch. (use either pull from in vscode or the command line.)
 
